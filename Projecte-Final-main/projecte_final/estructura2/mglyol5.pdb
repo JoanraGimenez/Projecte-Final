@@ -1,0 +1,16 @@
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  C1  MGL M   1      -7.975   2.198  58.171  1.00  0.00      MGLY C
+ATOM      2  H11 MGL M   1      -8.354   2.793  59.032  1.00  0.00      MGLY H
+ATOM      3  H12 MGL M   1      -8.438   2.596  57.240  1.00  0.00      MGLY H
+ATOM      4  O1  MGL M   1      -8.368   0.838  58.365  1.00  0.00      MGLY O
+ATOM      5  HO1 MGL M   1      -7.910   0.354  57.665  1.00  0.00      MGLY H
+ATOM      6  C2  MGL M   1      -6.467   2.278  58.097  1.00  0.00      MGLY C
+ATOM      7  H2  MGL M   1      -6.036   1.694  58.948  1.00  0.00      MGLY H
+ATOM      8  O2  MGL M   1      -6.005   1.703  56.872  1.00  0.00      MGLY O
+ATOM      9  HO2 MGL M   1      -5.131   2.102  56.758  1.00  0.00      MGLY H
+ATOM     10  C3  MGL M   1      -5.980   3.707  58.213  1.00  0.00      MGLY C
+ATOM     11  H31 MGL M   1      -6.416   4.186  59.119  1.00  0.00      MGLY H
+ATOM     12  H32 MGL M   1      -6.301   4.295  57.322  1.00  0.00      MGLY H
+ATOM     13  O3  MGL M   1      -4.549   3.731  58.308  1.00  0.00      MGLY O
+ATOM     14  HO3 MGL M   1      -4.310   4.087  59.170  1.00  0.00      MGLY H
+END
